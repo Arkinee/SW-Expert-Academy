@@ -10,7 +10,6 @@ long long sum = 0;	//합
 long long flag;
 int arr[1000001] = {0,};	//각 일 가격
 
-
 int main() {
 
 	cin >> x;
